@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Women in Computer Science
+# Women in Cyber Security
 
 Hi were a club
